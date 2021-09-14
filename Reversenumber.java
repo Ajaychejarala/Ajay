@@ -11,7 +11,7 @@ package java_tasks;
  	reverse = reverse * 10 + remainder;  
  	number = number/10;  
  	}  
- 	System.out.println("The reverse of the given number is: " + reverse);  
+ 	System.out.println("The reverse of the input number is: " + reverse);  
  	}  
  	}
 
