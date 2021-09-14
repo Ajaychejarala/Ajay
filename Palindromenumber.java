@@ -1,9 +1,11 @@
 package java_tasks;
 
+//it will remains same when in both sides ex:- akka
+
 import java.util.Scanner;
 public class Palindromenumber  { 
 
-    public static void main(String args[])
+    public static void main(String args[]) // execution starts from main method it is a static Because is only one
     {
 	 Scanner in = new Scanner(System.in);
      System.out.print("Input a number: ");

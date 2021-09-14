@@ -2,7 +2,7 @@ package java_tasks;
 
  public class Reversenumber {
   
- 	public static void main(String[] args)   
+ 	public static void main(String[] args)    // execution starts from main method it is a static Because is only one
  	{  
  	int number = 9949, reverse = 0;  
  	while(number != 0)   

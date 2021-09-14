@@ -3,7 +3,7 @@ package java_tasks;
 import java.util.Scanner;
 
 public class Perfectnumber {
-	public static void main(String arg[])	
+	public static void main(String arg[])	 // execution starts from main method it is a static Because is only one
 		{
 		    long n,sum=0;
 	             	    Scanner sc=new Scanner(System.in);	   	 

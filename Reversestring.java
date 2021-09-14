@@ -2,7 +2,7 @@ package java_tasks;
 
 import java.util.Scanner;
 public class Reversestring {
-     public static void main(String[] args) {
+     public static void main(String[] args) { // execution starts from main method it is a static Because is only one
     	 
         Scanner ak = new Scanner(System.in);
         System.out.print("Input a string: ");

@@ -1,10 +1,12 @@
 package java_tasks;
 
-import java.util.Scanner;
+// it will remains same when in both sides ex:- akka
+
+import java.util.Scanner; 
 
 class Palindromestring {
 
-   public static void main(String args[])
+   public static void main(String args[]) // execution starts from main method it is a static Because is only one
    {
       String str, rev = "";
       Scanner sc = new Scanner(System.in);
