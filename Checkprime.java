@@ -26,7 +26,7 @@ public class Checkprime
         }
         else
         {
-            System.out.print("This is not a Prime Number");
+            System.out.print("This is not a Prime Number okay");
         }
     }
 }
